@@ -11,7 +11,7 @@
 这是一个来自中国-深圳滴学生——QI。
 
 
-I'm interested in coding. In my spare time, I'd like to write code and article. Coding for fun, and I love it. My article would be public in my [blog](https://owomoe.net)(zh-CN).
+我对编程很感兴趣（废话，不感兴趣来Github干嘛）。在我闲暇的时间，我喜欢写代码和写文章。敲~~BUG~~代码。 My article would be public in my [blog](https://owomoe.net)(zh-CN).
 
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyagawaSeirin&layout=compact">
