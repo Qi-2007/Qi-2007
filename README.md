@@ -12,16 +12,15 @@
 
 [More about me]()
 
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qi-2007&layout=compact">
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=qi-2007&show_icons=true&hide_border=false&icon_color=ffb90f&title_color=586069&count_private=true&include_all_commits=true">
+
+
 ### Contact
 Welcome to chat with me! Here is my contact.<br>
-
-<a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qi-2007&layout=compact">
-</a>
-
-<a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=qi-2007&show_icons=true&hide_border=false&icon_color=ffb90f&title_color=586069&count_private=true&include_all_commits=true">
-</a>
 
 
 [![Twitter](https://img.shields.io/badge/dynamic/json?color=1DA1F2&label=Twitter&logo=twitter&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3DQi&style=for-the-badge)](https://twitter.com/)
