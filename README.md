@@ -15,12 +15,12 @@
 ### Contact
 Welcome to chat with me! Here is my contact.<br>
 
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qi-2007&layout=compact">
+</a>
 
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=qi-2007&show_icons=true&hide_border=false&icon_color=ffb90f&title_color=586069&count_private=true&include_all_commits=true">
-</a>
-<a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qi-2007&layout=compact">
 </a>
 
 
