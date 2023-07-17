@@ -11,7 +11,7 @@
 这是一个来自中国-深圳滴学生——QI。
 
 
-我对编程很感兴趣（废话，不感兴趣来Github干嘛）。在我闲暇的时间，我喜欢写代码和写文章。敲~~BUG~~代码。 My article would be public in my [blog](https://owomoe.net)(zh-CN).
+我对编程很感兴趣（废话，不感兴趣来Github干嘛）。在我闲暇的时间，我喜欢写代码和写文章。敲~~BUG~~代码。
 
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyagawaSeirin&layout=compact">
@@ -19,11 +19,11 @@
 
 ~~You can also find my photo on [Dress](https://github.com/komeiji-satori/Dress/tree/master/AyagawaSeirin(PPLin)).~~
 
-[More about me](https://owomoe.net/other/7.html)
+[More about me]()
 
 ### Contact
 Welcome to chat with me! Here is my contact.<br>
-And I'm delighted if you can join my [Telegram Channel](https://t.me/rinrinmoe) and [Telegram group](https://t.me/seirinmoe).
+#And I'm delighted if you can join my [Telegram Channel](https://t.me/rinrinmoe) and [Telegram group](https://t.me/seirinmoe).
 
 [![Twitter](https://img.shields.io/badge/dynamic/json?color=1DA1F2&label=Twitter&logo=twitter&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3DAyagawaSeirin&style=for-the-badge)](https://twitter.com/AyagawaSeirin)
 [![Telegram](https://img.shields.io/badge/Telegram-@AyagawaSeirin-00BFFF?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/AyagawaSeirin)
